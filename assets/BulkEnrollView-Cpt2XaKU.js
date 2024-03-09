@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,b as t}from"./index-BeoNRnVl.js";const c={},n=t("h1",null,"This is the bulk Enroll page",-1),l=[n];function r(_,a){return s(),o("div",null,l)}const d=e(c,[["render",r]]);export{d as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,b as c}from"./index-BeoNRnVl.js";const n={},o=c("h1",null,"This is the students list page",-1),_=[o];function a(r,i){return s(),t("div",null,_)}const l=e(n,[["render",a]]);export{l as default};
